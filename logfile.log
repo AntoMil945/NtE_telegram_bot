@@ -1,0 +1,110 @@
+1585746247.780743 : Server start
+1585746850.171145 : AjM45 invoked /start
+1585746861.7472272 : AjM45 invoked /help
+1585746893.6318448 : AjM45 invoked /estrai
+1585746893.6318448 : Catastrophic failure
+'list' object has no attribute 'split'
+
+1585746906.784987 : AjM45 invoked /roll
+1585747001.5128937 : Server start
+1585747059.6093252 : AjM45 invoked /aggiungi
+1585747497.5295115 : Server start
+1585747513.9099426 : AjM45 invoked /aggiungi
+1585747577.0039375 : Server start
+1585747583.1274996 : AjM45 invoked /aggiungi
+1585747583.1274996 : Catastrophic failure
+can only concatenate str (not "list") to str
+
+1585747603.5602415 : Server start
+1585747611.043492 : AjM45 invoked /aggiungi
+1585747657.2983232 : AjM45 invoked /aggiungi
+1585747662.343333 : Server start
+1585747672.2635698 : AjM45 invoked /aggiungi
+1585747672.2635698 : Catastrophic failure
+name 'sachetto' is not defined
+
+1585747749.042988 : Server start
+1585747760.2458522 : AjM45 invoked /aggiungi
+1585747778.9025364 : AjM45 invoked /estrai
+1585747778.9025364 : Catastrophic failure
+name 'sachetto' is not defined
+
+1585747845.5949273 : Server start
+1585747862.5176659 : AjM45 invoked /aggiungi
+1585747867.7978652 : AjM45 invoked /estrai
+1585747867.7978652 : Catastrophic failure
+'str' object cannot be interpreted as an integer
+
+1585747928.6371193 : Server start
+1585747937.1511889 : AjM45 invoked /aggiungi
+1585747942.415127 : AjM45 invoked /estrai
+1585747942.415127 : Catastrophic failure
+'str' object cannot be interpreted as an integer
+
+1585748679.3970864 : Server start
+1585748690.6134324 : AjM45 invoked /aggiungi
+1585748700.6577733 : AjM45 invoked /estrai
+1585748856.3944013 : Server start
+1585748904.2831488 : AjM45 invoked /estrai
+1585748904.2831488 : Catastrophic failure
+name 'sacchetto' is not defined
+
+1585748914.670823 : AjM45 invoked /aggiungi
+1585748920.3731074 : AjM45 invoked /estrai
+1585748946.0503385 : Server start
+1585749202.1609776 : Server start
+1585749213.9862933 : AjM45 invoked /aggiungi
+1585749219.8604708 : AjM45 invoked /estrai
+1585749686.6260946 : Server start
+1585749848.7961335 : Server start
+1585749856.2481985 : AjM45 invoked /aggiungi
+1585749863.8711505 : AjM45 invoked /estrai
+1585749893.1523693 : Server start
+1585749931.1618605 : Server start
+1585749943.249937 : AjM45 invoked /aggiungi
+1585750122.5964556 : Server start
+1585750133.7608075 : AjM45 invoked /aggiungi
+1585750141.4693775 : AjM45 invoked /estrai
+1585750671.4113965 : Server start
+1585851375.3569386 : Server start
+1586631675.4218333 : Server start
+1586631745.9691148 : AjM45 invoked /aggiungi
+1586631753.0201054 : AjM45 invoked /estrai
+1586631783.2128174 : Catastrophic failure
+'text'
+
+1586631857.2337606 : AjM45 invoked /help
+1586633229.5971477 : AjM45 invoked /aggiungi
+1586633229.6366856 : Catastrophic failure
+('Connection aborted.', ConnectionResetError(10054, "Connessione in corso interrotta forzatamente dall'host remoto", None, 10054, None))
+
+1586633268.003934 : AjM45 invoked /aggiungi
+1586633268.1879988 : AjM45 invoked /help
+1586633323.6590958 : AjM45 invoked /estrai
+1586635532.9595935 : Nicksix invoked /aggiungi
+1586635533.0038245 : Catastrophic failure
+('Connection aborted.', ConnectionResetError(10054, "Connessione in corso interrotta forzatamente dall'host remoto", None, 10054, None))
+
+1586635576.6044044 : Nicksix invoked /aggiungi
+1586635594.8951607 : Nicksix invoked /estrai
+1586641094.6557436 : EmanueleBedetti invoked /aggiungi
+1586641120.8222492 : EmanueleBedetti invoked /estrai
+1586643980.4855196 : CozzaroNer0 invoked /aggiungi
+1586643993.1329627 : CozzaroNer0 invoked /estrai
+1586644587.692332 : Nicksix invoked /aggiungi
+1586644599.7748673 : Nicksix invoked /estrai
+1586644991.6815352 : EmanueleBedetti invoked /aggiungi
+1586645009.4907148 : EmanueleBedetti invoked /estrai
+1586645113.6009846 : Catastrophic failure
+'text'
+
+1586645756.3436298 : Nicksix invoked /aggiungi
+1586645772.4030857 : Nicksix invoked /estrai
+1586647671.1096418 : CozzaroNer0 invoked /aggiungi
+1586647677.1025152 : CozzaroNer0 invoked /estrai
+1586648122.8650289 : Nicksix invoked /aggiungi
+1586648138.0559418 : Nicksix invoked /estrai
+1586648216.5614529 : CozzaroNer0 invoked /aggiungi
+1586648225.9741464 : CozzaroNer0 invoked /estrai
+1586648288.2359354 : EmanueleBedetti invoked /aggiungi
+1586648309.4347603 : EmanueleBedetti invoked /estrai
